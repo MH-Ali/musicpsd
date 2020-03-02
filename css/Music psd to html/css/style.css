@@ -1,0 +1,48 @@
+*{
+	margin:0;
+	padding: 0;
+	 
+}
+body{
+
+	background-image: linear-gradient(to right top, #040a13, #09121f, #0a182b, #0a1e38, #0a2345);
+}
+.toggle{
+	color:#2A5EA4;
+}
+.navbar-brand img{
+	width: 70%;
+}
+ 
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.5);
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	color:#fff;
+}
+.banner{}
+.banner h1{
+    color: #fff;
+    padding: 20px 0;
+}
+.banner h1 span{
+	color:#2a5da3;
+}
+.banner h6{
+	color:#2E66B2;
+}
+
+.banner button {
+    background: #0a2345;
+    border: 3px solid #153b6d;
+    border-radius: 30px;
+    color: #fff;
+    padding: 15px 30px;
+    margin-top: 50px;
+}
+
+.banner button:hover{
+	border: 3px solid #fff;
+	background: transparent;
+	transition:all 1s ease;
+}
